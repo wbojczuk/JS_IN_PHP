@@ -28,6 +28,7 @@ function length($val){
     }else{
         return "Length Error: Use A Valid Data Type";
     }
+}
 
     #Ouputs true/false if str contains substr
 
